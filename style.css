@@ -1,0 +1,170 @@
+* {
+    box-sizing: border-box;
+    margin:0% ;
+    padding: 0%;
+    
+    }
+    
+    header {
+        background-color:  #212123;
+        
+    }
+    
+    .container {
+          width: 950px;
+          margin: 0 auto;
+    }
+
+ nav {
+   
+    display: flex;
+    align-items: first baseline;
+ }   
+
+ nav {
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding: 20px;
+}
+.nav-logo {
+    color: aliceblue;
+    font-size: 16px;
+}
+.nav-search {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    padding: 0 15px;
+}
+
+.boxes {
+ color: #191919;
+}
+
+.text-box h1 {
+font-family: Montserrat;
+font-size: 119px;
+font-weight: 500;
+line-height: 145px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(97, 110, 116, 1);
+    width: 888px;
+    height: 145px;
+    top: -133px;
+    left: 302px;
+    color: rgba(33, 33, 35, 1);
+    display: flex;
+    justify-content:space-between ;
+color: #616E74;
+
+}
+
+.text-box p{
+ width: 212px;
+height: 20px;
+top: 21px;
+left: 309px;
+color: #616E74;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.text-box h2{
+width: 481px;
+height: 93px;
+top: 49px;
+left: 309px;
+font-family: Montserrat;
+font-size: 42px;
+font-weight: 700;
+line-height: 51px;
+letter-spacing: 0em;
+text-align: left;
+color:  #F6F6F7;
+
+}
+
+.text-box button{
+width: 125px;
+height: 38px;
+top: 166px;
+left: 313px;
+border-radius: 6px;
+background-color: #6C3EB8;
+
+}
+
+.box-menu{
+ width: 304px;
+height: 200px;
+
+
+border-radius: 6px;
+color:  #576067;
+
+
+}
+.box-menu title {
+width: 107px;
+height: 20px;
+/* top: -109px; */
+left: -33px;
+color: #FFFFFF;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.box-menu h5{
+    color: #8B57C6;
+   
+}
+.box-help{
+ width: 256px;
+
+color:  #576067;
+}
+
+.box{
+width: 950px;
+height: 423px;
+top: -134px;
+left: 267px;
+border-radius: 6px;
+ /* background-color: #191919; */
+}
+
+.boxes{
+   display: flex;
+ 
+}
+
+.box-img img{
+/* width: 462px; */
+/* height: 359px; */
+/* top: -51px; */
+/* left: 714px; */
+display: flex;
+align-items: end;
+/* justify-content: end; */
+}
+.santa{
+ width: 1299px;
+height: 594px;
+top: 1097px;
+left: -82px;
+
+}
